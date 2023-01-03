@@ -1,0 +1,4 @@
+com\ants\currencyconversionservice\vo\ConversionVO.class
+com\ants\currencyconversionservice\controller\CurrencyConversionController.class
+com\ants\currencyconversionservice\repository\CurrencyConversionRepo.class
+com\ants\currencyconversionservice\CurrencyConversionServiceApplication.class

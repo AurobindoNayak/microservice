@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.ants.currencyconversionservice.CurrencyConversionServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.207 s <<< FAILURE! - in com.ants.currencyconversionservice.CurrencyConversionServiceApplicationTests
+contextLoads  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalArgumentException: Could not find class [org.springframework.cloud.commons.httpclient.HttpClientConfiguration]
+Caused by: java.lang.ClassNotFoundException: org.springframework.cloud.commons.httpclient.HttpClientConfiguration
+
